@@ -1,5 +1,7 @@
-# HTML and CSS Projects
 
+link for the website
+https://flye-qpx2.vercel.app/
+Its a Basic html project
 Welcome to my HTML and CSS projects repository! This repository contains a collection of basic to intermediate HTML and CSS projects I have created.
 
 ## Table of Contents
